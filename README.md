@@ -49,13 +49,8 @@
 如果你是装过NVjdc 先看看后面1.2以前如何更新之1.2升级说明
 
 1拉源码
-国内
-```
-git clone https://ghproxy.com/https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
-```
-国外
-```
-git clone https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+
+git clone https://github.com/lvxuezhi/nvjdcdocker.git /root/nolanjdc
 ```
 
 
@@ -234,13 +229,8 @@ mv /root/nolanjdc /root/nolanjdcdb
 ```
 
 然后执行步骤一 拉取代码
-国内
-```
-git clone https://ghproxy.com/https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
-```
-国外
-```
-git clone https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+
+git clone https://github.com/lvxuezhi/nvjdcdocker.git /root/nolanjdc
 ```
 
 
